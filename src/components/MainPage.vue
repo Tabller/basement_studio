@@ -19,6 +19,15 @@ defineProps({
 </template>
 
 <style scoped>
+section {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 120px 20vw;
+    min-height: 400px;
+}
+
 .red {
     background-color: #8D021F;
 }
