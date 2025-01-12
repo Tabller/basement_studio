@@ -1,5 +1,5 @@
 <script setup>
-import HelloWorld from './components/HelloWorld.vue'
+import MainPage from './components/MainPage.vue'
 </script>
 
 <template>
@@ -7,11 +7,4 @@ import HelloWorld from './components/HelloWorld.vue'
 </template>
 
 <style scoped>
-.title {
-  will-change: filter;
-  transition: filter 300ms;
-}
-.title:hover {
-  filter: drop-shadow(0 0 2em #646cffaa);
-}
 </style>
