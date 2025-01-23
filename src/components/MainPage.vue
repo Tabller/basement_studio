@@ -20,7 +20,7 @@ defineProps({
 
 <style scoped>
 section {
-    position: relative;
+    position: top;
     display: flex;
     flex-direction: column;
     align-items: center;
