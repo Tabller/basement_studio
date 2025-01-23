@@ -34,7 +34,7 @@ section {
 .curve {
     position: absolute;
     height: 225px;
-    width: 200%;
+    width: 100%;
     bottom: 0%;
 }
 .curve::before {
